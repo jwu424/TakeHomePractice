@@ -104,3 +104,14 @@ def plot_tree(model, feature_names, class_names, proportion=True,leaves_parallel
                     proportion=proportion, leaves_parallel=leaves_parallel, filled=filled)
     graph = graphviz.Source(temp)
     return graph
+
+def missing_data(data):
+    col_total = data.isnull().sum()
+    percent = col_total / data.isnull().count() * 100
+    missing_df = pd.concat([col_total, percent], axis=1,
+                           keys=['Total', 'Percent'])
+    types = []
+    for col in data.columns:
+        types.append(str(data[col].dtypes))
+    missing_df['Types'] = types
+    return np.transpose(missing_df)

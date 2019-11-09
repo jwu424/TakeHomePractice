@@ -1,0 +1,201 @@
+2019-11-09 16:03:29,831 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-11-09 16:06:51,711 diff parser start
+2019-11-09 16:06:51,712 line_lengths old: 1; new: 1
+2019-11-09 16:06:51,712 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:06:51,712 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:06:51,712 diff parser end
+2019-11-09 16:06:51,724 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/__init__.py
+2019-11-09 16:06:51,731 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/clipboards.py
+2019-11-09 16:06:51,770 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/parsers.py
+2019-11-09 16:06:51,788 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/util/_decorators.py
+2019-11-09 16:06:51,792 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/gbq.py
+2019-11-09 16:06:51,847 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/pytables.py
+2019-11-09 16:06:51,881 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/html.py
+2019-11-09 16:06:51,926 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/json/json.py
+2019-11-09 16:06:52,036 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/packers.py
+2019-11-09 16:06:52,054 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/parquet.py
+2019-11-09 16:06:52,059 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/pickle.py
+2019-11-09 16:06:52,062 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/sas/sasreader.py
+2019-11-09 16:06:52,080 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/io/sql.py
+2019-11-09 16:08:00,112 diff parser start
+2019-11-09 16:08:00,112 line_lengths old: 1; new: 1
+2019-11-09 16:08:00,112 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:00,112 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:00,112 diff parser end
+2019-11-09 16:08:00,174 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py
+2019-11-09 16:08:07,921 diff parser start
+2019-11-09 16:08:07,921 line_lengths old: 1; new: 1
+2019-11-09 16:08:07,921 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:07,922 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:07,922 diff parser end
+2019-11-09 16:08:16,100 diff parser start
+2019-11-09 16:08:16,100 line_lengths old: 1; new: 1
+2019-11-09 16:08:16,100 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:16,101 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:16,101 diff parser end
+2019-11-09 16:08:37,837 diff parser start
+2019-11-09 16:08:37,837 line_lengths old: 1; new: 1
+2019-11-09 16:08:37,837 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:37,838 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:37,838 diff parser end
+2019-11-09 16:08:39,926 diff parser start
+2019-11-09 16:08:39,926 line_lengths old: 1; new: 1
+2019-11-09 16:08:39,926 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:39,926 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:39,927 diff parser end
+2019-11-09 16:08:40,002 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py
+2019-11-09 16:08:47,202 diff parser start
+2019-11-09 16:08:47,202 line_lengths old: 1; new: 1
+2019-11-09 16:08:47,202 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:47,203 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:47,203 diff parser end
+2019-11-09 16:08:48,848 diff parser start
+2019-11-09 16:08:48,849 line_lengths old: 1; new: 1
+2019-11-09 16:08:48,849 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:08:48,849 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:08:48,849 diff parser end
+2019-11-09 16:14:30,807 Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-11-09 16:14:30,807 Invalid alias: The name more can't be aliased because it is another magic command.
+2019-11-09 16:14:30,807 Invalid alias: The name less can't be aliased because it is another magic command.
+2019-11-09 16:14:30,807 Invalid alias: The name man can't be aliased because it is another magic command.
+2019-11-09 16:14:37,245 Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+2019-11-09 16:14:47,176 diff parser start
+2019-11-09 16:14:47,176 line_lengths old: 1; new: 1
+2019-11-09 16:14:47,177 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:14:47,177 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:14:47,177 diff parser end
+2019-11-09 16:14:51,983 diff parser start
+2019-11-09 16:14:51,983 line_lengths old: 1; new: 1
+2019-11-09 16:14:51,983 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:14:51,984 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:14:51,984 diff parser end
+2019-11-09 16:14:52,037 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py
+2019-11-09 16:15:00,239 diff parser start
+2019-11-09 16:15:00,239 line_lengths old: 1; new: 1
+2019-11-09 16:15:00,239 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:15:00,240 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:15:00,240 diff parser end
+2019-11-09 16:35:34,812 diff parser start
+2019-11-09 16:35:34,812 line_lengths old: 1; new: 1
+2019-11-09 16:35:34,813 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:35:34,813 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:35:34,813 diff parser end
+2019-11-09 16:38:30,717 diff parser start
+2019-11-09 16:38:30,717 line_lengths old: 1; new: 1
+2019-11-09 16:38:30,718 -> code[replace] old[1:1] new[1:1]
+2019-11-09 16:38:30,718 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:38:30,718 diff parser end
+2019-11-09 16:40:21,320 diff parser start
+2019-11-09 16:40:21,320 line_lengths old: 1; new: 2
+2019-11-09 16:40:21,320 -> code[replace] old[1:1] new[1:2]
+2019-11-09 16:40:21,321 parse_part from 1 to 2 (to 1 in part parser)
+2019-11-09 16:40:21,321 diff parser end
+2019-11-09 16:40:24,096 diff parser start
+2019-11-09 16:40:24,097 line_lengths old: 2; new: 2
+2019-11-09 16:40:24,097 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:40:24,097 copy old[1:1] new[1:1]
+2019-11-09 16:40:24,097 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:40:24,097 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:40:24,097 diff parser end
+2019-11-09 16:42:26,280 diff parser start
+2019-11-09 16:42:26,280 line_lengths old: 2; new: 2
+2019-11-09 16:42:26,280 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:42:26,280 copy old[1:1] new[1:1]
+2019-11-09 16:42:26,280 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:42:26,281 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:42:26,281 diff parser end
+2019-11-09 16:42:26,293 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/sklearn/metrics/ranking.py
+2019-11-09 16:42:27,201 diff parser start
+2019-11-09 16:42:27,201 line_lengths old: 2; new: 2
+2019-11-09 16:42:27,201 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:42:27,201 copy old[1:1] new[1:1]
+2019-11-09 16:42:27,202 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:42:27,202 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:42:27,202 diff parser end
+2019-11-09 16:42:27,416 diff parser start
+2019-11-09 16:42:27,416 line_lengths old: 2; new: 2
+2019-11-09 16:42:27,416 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:42:27,417 copy old[1:1] new[1:1]
+2019-11-09 16:42:27,417 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:42:27,417 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:42:27,417 diff parser end
+2019-11-09 16:42:28,035 diff parser start
+2019-11-09 16:42:28,035 line_lengths old: 2; new: 2
+2019-11-09 16:42:28,035 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:42:28,035 copy old[1:1] new[1:1]
+2019-11-09 16:42:28,035 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:42:28,036 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:42:28,036 diff parser end
+2019-11-09 16:46:37,164 diff parser start
+2019-11-09 16:46:37,164 line_lengths old: 2; new: 1
+2019-11-09 16:46:37,164 -> code[replace] old[1:2] new[1:1]
+2019-11-09 16:46:37,165 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:46:37,165 diff parser end
+2019-11-09 16:47:52,450 diff parser start
+2019-11-09 16:47:52,450 line_lengths old: 1; new: 2
+2019-11-09 16:47:52,450 -> code[replace] old[1:1] new[1:2]
+2019-11-09 16:47:52,451 parse_part from 1 to 2 (to 1 in part parser)
+2019-11-09 16:47:52,451 diff parser end
+2019-11-09 16:47:52,453 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/__init__.py
+2019-11-09 16:47:54,165 diff parser start
+2019-11-09 16:47:54,165 line_lengths old: 2; new: 2
+2019-11-09 16:47:54,165 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:47:54,165 copy old[1:1] new[1:1]
+2019-11-09 16:47:54,165 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:47:54,166 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:47:54,166 diff parser end
+2019-11-09 16:47:54,204 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/tseries/offsets.py
+2019-11-09 16:47:54,235 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/indexes/datetimes.py
+2019-11-09 16:47:54,254 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/dtypes/dtypes.py
+2019-11-09 16:48:02,541 diff parser start
+2019-11-09 16:48:02,541 line_lengths old: 2; new: 2
+2019-11-09 16:48:02,541 -> code[equal] old[1:1] new[1:1]
+2019-11-09 16:48:02,541 copy old[1:1] new[1:1]
+2019-11-09 16:48:02,541 -> code[replace] old[2:2] new[2:2]
+2019-11-09 16:48:02,542 parse_part from 2 to 2 (to 1 in part parser)
+2019-11-09 16:48:02,542 diff parser end
+2019-11-09 16:48:02,559 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/__init__.py
+2019-11-09 16:48:02,614 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/generic.py
+2019-11-09 16:48:02,655 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/base.py
+2019-11-09 16:48:02,665 pickle loaded: /Users/pinecone/anaconda3/lib/python3.7/site-packages/pandas/core/accessor.py
+2019-11-09 16:48:22,152 diff parser start
+2019-11-09 16:48:22,152 line_lengths old: 2; new: 1
+2019-11-09 16:48:22,152 -> code[replace] old[1:2] new[1:1]
+2019-11-09 16:48:22,153 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 16:48:22,153 diff parser end
+2019-11-09 17:07:21,612 diff parser start
+2019-11-09 17:07:21,613 line_lengths old: 1; new: 1
+2019-11-09 17:07:21,613 -> code[replace] old[1:1] new[1:1]
+2019-11-09 17:07:21,613 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 17:07:21,613 diff parser end
+2019-11-09 17:07:31,905 diff parser start
+2019-11-09 17:07:31,905 line_lengths old: 1; new: 1
+2019-11-09 17:07:31,905 -> code[replace] old[1:1] new[1:1]
+2019-11-09 17:07:31,906 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 17:07:31,906 diff parser end
+2019-11-09 17:08:46,272 diff parser start
+2019-11-09 17:08:46,272 line_lengths old: 1; new: 1
+2019-11-09 17:08:46,272 -> code[replace] old[1:1] new[1:1]
+2019-11-09 17:08:46,273 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 17:08:46,273 diff parser end
+2019-11-09 17:08:47,434 diff parser start
+2019-11-09 17:08:47,435 line_lengths old: 1; new: 1
+2019-11-09 17:08:47,435 -> code[replace] old[1:1] new[1:1]
+2019-11-09 17:08:47,435 parse_part from 1 to 1 (to 0 in part parser)
+2019-11-09 17:08:47,435 diff parser end
+2019-11-09 17:10:01,282 diff parser start
+2019-11-09 17:10:01,282 line_lengths old: 1; new: 3
+2019-11-09 17:10:01,282 -> code[replace] old[1:1] new[1:3]
+2019-11-09 17:10:01,284 parse_part from 1 to 3 (to 2 in part parser)
+2019-11-09 17:10:01,284 diff parser end
+2019-11-09 17:10:02,756 diff parser start
+2019-11-09 17:10:02,756 line_lengths old: 3; new: 3
+2019-11-09 17:10:02,756 -> code[equal] old[1:2] new[1:2]
+2019-11-09 17:10:02,756 copy old[1:2] new[1:2]
+2019-11-09 17:10:02,756 -> code[replace] old[3:3] new[3:3]
+2019-11-09 17:10:02,757 parse_part from 3 to 3 (to 2 in part parser)
+2019-11-09 17:10:02,757 diff parser end
+2019-11-09 17:14:20,534 Invalid alias: The name clear can't be aliased because it is another magic command.
+2019-11-09 17:14:20,535 Invalid alias: The name more can't be aliased because it is another magic command.
+2019-11-09 17:14:20,535 Invalid alias: The name less can't be aliased because it is another magic command.
+2019-11-09 17:14:20,535 Invalid alias: The name man can't be aliased because it is another magic command.
