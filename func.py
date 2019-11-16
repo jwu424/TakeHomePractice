@@ -1,6 +1,7 @@
 from sklearn.model_selection import StratifiedKFold, KFold, TimeSeriesSplit
 from sklearn.metrics import classification_report, roc_auc_score, roc_curve
 from sklearn import tree
+from sklearn.preprocessing import LabelEncoder
 import lightgbm as lgb
 import logging
 import seaborn as sns
@@ -115,3 +116,15 @@ def missing_data(data):
         types.append(str(data[col].dtypes))
     missing_df['Types'] = types
     return np.transpose(missing_df)
+
+def LBOH_trans(data, col_list, trans):
+    if trans == 'LB':
+        for col in col_list:
+            lb = LabelEncoder()
+            data[col] = lb.fit_transform(data[col])
+        return data
+    elif trans == 'OH':
+        data = pd.get_dummies(data, columns=col_list)
+        return data
+    else:
+        ValueError
